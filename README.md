@@ -1,2 +1,2 @@
 # c-netlib
-C++ network communication library using ASIO
+C++ template network communication library using ASIO
